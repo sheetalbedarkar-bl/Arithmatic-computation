@@ -1,1 +1,5 @@
-#Welcome to the airthmatic computation problem statement
+#!/bin/bash -x
+
+echo "Enter the three inputs a, b and c :"
+read a b c
+echo $a $b $c
